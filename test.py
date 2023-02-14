@@ -1,0 +1,1 @@
+print('kanker emad je mama')
